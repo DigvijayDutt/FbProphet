@@ -1,0 +1,7 @@
+numpy
+fpandas
+seaborn
+matplotlib
+fbprophet 
+sklearn
+warnings
